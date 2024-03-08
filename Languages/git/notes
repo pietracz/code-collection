@@ -2,5 +2,3 @@ git status to check for changes
 git add . tracks all the files or you name the files instead of a .
 git commit -m "commitment text" - it is neccessary to use commit with a message 
 git push to push changes to maiun branch
-
-Viktor hat mir sehr geholfen 
