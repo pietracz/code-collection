@@ -84,4 +84,14 @@ Drop table customers;
 -- ORDER BY amount DESC
 
 -- Update mehrere Einträge unter den selben Bedinungen, aber berücksichtgt vorherige Werte
-alter=alter+1
+
+--Prinzipien bei Transaktionen:
+--ACID eher bei SQL Datenbanken
+--Atomicity:
+--Entweder eine Transaktion wird durchgeführt oder im Fehlerfall rückgängig gemacht.
+--Consistency:
+--Eine Transaktion führt die Datenbank von einem gültigen Zustand in einen anderen gültigen Zustand.
+--Isolation:
+--Transaktionen werden so isoliert, dass sie sich nicht gleichzeitig beeinflussen, selbst wenn sie gleichzeitig ablaufen.
+--Durability:
+--Sobald eine Transaktion abgeschlossen wurde, bleiben die Änderungen bei einem Systemausfall bestehen.
