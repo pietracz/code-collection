@@ -1,3 +1,17 @@
 git status to check for changes
 git add . tracks all the files or you name the files instead of a .
 git commit -m "commitment text" - it is neccessary to use commit with a message
+
+For github it is also neccessary to generate and add a ssh key. 
+First you need to use:
+ssh-keygen -t ed25519 -C "your_email@example.com"
+With that command you see where the ssh key will be stored and you also can choose a name for the key.
+Passphrases also can be added to secure the file even more.
+When you have done those steps you need to get access to the key.pub file to copy its contents to your git hub page. cat C:\path\to\your\file.pub should work in bash and powerhsell consoles.
+
+Afterwards you need to use the following commands as a admin otherwise you may receive an error:
+Get-Service -Name ssh-agent | Set-Service -StartupType Manual
+Start-Service ssh-agent
+
+Finally you need to add your private key to your ssh-agent:
+ssh-add C:\path\to\your\file
