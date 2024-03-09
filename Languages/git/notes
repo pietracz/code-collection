@@ -1,6 +1,7 @@
 git status to check for changes
 git add . tracks all the files or you name the files instead of a .
 git commit -m "commitment text" - it is neccessary to use commit with a message
+git push origin main --force
 
 For github it is also neccessary to generate and add a ssh key. 
 First you need to use:
@@ -15,3 +16,7 @@ Start-Service ssh-agent
 
 Finally you need to add your private key to your ssh-agent:
 ssh-add C:\path\to\your\file
+
+git branch lists all branches of your repository
+git checkout -b branch-name
+
