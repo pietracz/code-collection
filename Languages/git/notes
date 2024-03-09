@@ -20,5 +20,5 @@ ssh-add C:\path\to\your\file
 git branch lists all branches of your repository
 git checkout -b branch-name
 git diff branch-name is used when you are in a specific branch. For example you are in your main branch and want to use diff, than you have to provide the name you want to check the difference with.
-
+test test
 test text
