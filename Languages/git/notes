@@ -22,5 +22,7 @@ git checkout -b branch-name
 git diff branch-name is used when you are in a specific branch. For example you are in your main branch and want to use diff, than you have to provide the name you want to check the difference with.
 
 If you want to merge you want to change the file in the branch of your main. Therefor you need the usual procedure. git add, git commit and git push. Afterwards you want to change to your main branch and start the merge process.
-
 git pull will pull the files from the branch you name afterwards towards the branch you are in
+git branch -d branch-name to delete a branch
+git commit -am is for add and message but only works for modified files
+test
