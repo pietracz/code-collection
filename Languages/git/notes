@@ -20,7 +20,5 @@ ssh-add C:\path\to\your\file
 git branch lists all branches of your repository
 git checkout -b branch-name
 git diff branch-name is used when you are in a specific branch. For example you are in your main branch and want to use diff, than you have to provide the name you want to check the difference with.
-Best practice is to change some line in a branch and save the changes. Afterwards you want to checkout to your main branch and want to use git diff and git merge.
-First you want to change the file in the branch of your main. Therefor you need the usual procedure. git add, git commit and git push
 
-Afterwards you want to change to your main branch and start the merge process.
+If you want to merge you want to change the file in the branch of your main. Therefor you need the usual procedure. git add, git commit and git push. Afterwards you want to change to your main branch and start the merge process.
