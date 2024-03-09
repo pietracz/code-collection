@@ -1,7 +1,7 @@
 git status to check for changes
 git add . tracks all the files or you name the files instead of a .
 git commit -m "commitment text" - it is neccessary to use commit with a message
-git push origin main --force
+git push -u origin 
 
 For github it is also neccessary to generate and add a ssh key. 
 First you need to use:
@@ -19,6 +19,6 @@ ssh-add C:\path\to\your\file
 
 git branch lists all branches of your repository
 git checkout -b branch-name
-git diff branch-name
+git diff branch-name is used when you are in a specific branch. For example you are in your main branch and want to use diff, than you have to provide the name you want to check the difference with.
 
 test text
