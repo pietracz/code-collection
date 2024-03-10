@@ -25,4 +25,3 @@ If you want to merge you want to change the file in the branch of your main. The
 git pull will pull the files from the branch you name afterwards towards the branch you are in
 git branch -d branch-name to delete a branch
 git commit -am is for add and message but only works for modified files
-test
