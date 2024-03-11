@@ -26,7 +26,6 @@ With npx serve(Node.js) used in the terminal you can create a localhost where yo
             font-style: normal;
             color: #DEFFFC;
             background: #070617;
-            overflow-x: hidden;
         }
 
         section {
@@ -60,12 +59,16 @@ With npx serve(Node.js) used in the terminal you can create a localhost where yo
 
         .top-overlap {
             position: relative;
-            bottom: -10px;
+            bottom: -5px;
+            z-index: -1;
+            border: none !important;
         }
 
         .bottom-overlap {
             position: relative;
-            top: -10px;
+            z-index: -1;
+            top: -5px;
+            border: none !important;
         }
     </style>
 
@@ -82,7 +85,7 @@ With npx serve(Node.js) used in the terminal you can create a localhost where yo
     </section>
 
     <div class="bottom-overlap">
-        <svg transform=scale(1.1) height: 960 width: 100% viewBox="0 0 960 100">
+        <svg transform=scale(1.1) width: 100% viewBox="0 0 960 100">
             <g>
                 <path id="wave111"
                     d="M0 47L13.3 53.3C26.7 59.7 53.3 72.3 80 73.7C106.7 75 133.3 65 160 60.5C186.7 56 213.3 57 240 62.3C266.7 67.7 293.3 77.3 320 80.8C346.7 84.3 373.3 81.7 400 76C426.7 70.3 453.3 61.7 480 59.7C506.7 57.7 533.3 62.3 560 65.7C586.7 69 613.3 71 640 68.5C666.7 66 693.3 59 720 61.3C746.7 63.7 773.3 75.3 800 81.3C826.7 87.3 853.3 87.7 880 87C906.7 86.3 933.3 84.7 946.7 83.8L960 83L960 0L946.7 0C933.3 0 906.7 0 880 0C853.3 0 826.7 0 800 0C773.3 0 746.7 0 720 0C693.3 0 666.7 0 640 0C613.3 0 586.7 0 560 0C533.3 0 506.7 0 480 0C453.3 0 426.7 0 400 0C373.3 0 346.7 0 320 0C293.3 0 266.7 0 240 0C213.3 0 186.7 0 160 0C133.3 0 106.7 0 80 0C53.3 0 26.7 0 13.3 0L0 0Z"
