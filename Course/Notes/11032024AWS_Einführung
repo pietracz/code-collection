@@ -27,5 +27,17 @@ In der Prüfung wird Wissen zu folgenden Bereichen abgefragt:
     Die wichtigsten AWS-Services
     Wirtschaftlichkeit der AWS Cloud
 
+S3 Simple Storage Service
 
+Bekannt dafür, branchenführende Skalierbarkeit, Datenverfügbarkeit, Sicherheit und Leistung zu bieten.
+Unternehmen haben die Möglichkeit größere Mengen Speicherplatz zu erwerben und diesen für alle möglichen Anwendnungsfälle benutzen.
+Analysedaten, Log Dateien, Anwendungsdateien, Foto und Videomaterial, Backup und Archive wären solche Anwendungsfälle.
+
+Speicherpreise gehen ab ca. 0,0009USD pro GB los und steigen bis maximal 0,02USD pro GB.
+Die Verschiedenen Preise können unter folgendem Link eingesehen werden:
+https://aws.amazon.com/de/s3/pricing/?nc=sn&loc=4
+
+Bezüglich der 650TB ist es schwer zu sagen, da es abhängig von der Anwendung ist. Wenn der Kunde so gut wie gar nicht auf die Daten zugreifen muss, wäre ein Deep Archive die beste Wahl, ansonsten ist es notwendig zu wissen, was ein Kunde genau machen will. 
+Ein gutes Angebot kann nur dann erstellt werden, wenn in Erfahrung gebracht wurde, was für Anforderungen der Speicher erfüllen muss. 
+Gehen wir aber davpn aus, dass der Kunde nicht auf den Speicher zugreifen muss, anstatt, dass er es nicht bezahlen will, bleibe ich bei dem Deep Archive S3 Glacier. Für 650TB würde das Unternehmen in diesem Fall 0,858USD bezahlen.
 
