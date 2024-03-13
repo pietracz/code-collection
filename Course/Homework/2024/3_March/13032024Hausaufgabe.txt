@@ -1,0 +1,88 @@
+
+Frage 1:
+Was ist eine angemessene Definition von IAM-Rollen?
+Eine IAM-Entität, die einen Satz von Berechtigungen für AWS-Serviceanfragen definiert, die von AWS-Diensten verwendet werden
+IAM-Benutzer in mehreren Gruppen
+Eine Passwortrichtlinie
+Benutzern zugewiesene Berechtigungen, um Aktionen durchzuführen
+
+Antwort:
+Eine IAM-Entität, die einen Satz von Berechtigungen für AWS-Serviceanfragen definiert, die von AWS-Diensten verwendet werden.
+____________________________________________________
+
+Frage 2:
+Welches der folgenden ist ein IAM-Sicherheitswerkzeug?
+IAM Credentials Report (Anmeldeinformationen Bericht)
+IAM Root Account Manager(Root-Kontomanager)
+IAM Services Report(Dienstebericht)
+IAM Security Advisor (Sicherheitsberater)
+
+Antwort: 
+IAM Credentials Report
+____________________________________________________
+
+Frage 3:
+Welche Antwort ist FALSCH bezüglich IAM-Benutzern?
+IAM-Benutzer können mehreren Gruppen angehören
+IAM-Benutzer müssen keiner Gruppe angehören
+IAM-Benutzern können Richtlinien zugewiesen werden
+IAM-Benutzer greifen mit den Root-Kontozugangsdaten auf AWS zu
+
+Antwort:
+IAM Users access AWS with the root account credentials
+____________________________________________________
+
+Frage 4:
+Welches der folgenden ist eine IAM-Best Practice?
+Verwenden Sie nicht das Root-Benutzerkonto
+Erstellen Sie mehrere Benutzer für eine physische Person
+Teilen Sie Anmeldeinformationen, damit ein Kollege eine Aufgabe für Sie durchführen kann
+Aktivieren Sie MFA nicht, um den Zugang zu erleichtern
+
+Antwort:
+Verwenden Sie nicht das Root-Benutzerkonto
+____________________________________________________
+
+Frage 5:
+Was sind IAM-Richtlinien?
+Ausführbare Aktionen von AWS-Diensten
+JSON-Dokumente, um die Berechtigungen von Benutzern, Gruppen oder Rollen zu definieren
+Regeln zum Festlegen eines Passworts für IAM-Benutzer
+
+Antwort:
+JSON-Dokumente, um die Berechtigungen von Benutzern, Gruppen und Rollen zu definieren
+____________________________________________________
+
+Frage 6:
+Was ist im Rahmen des Shared-Responsibility-Modells die Verantwortung des Kunden bei IAM?
+Sicherheit der Infrastruktur
+Compliance-Validierung
+Konfiguration und Schwachstellenanalyse
+Den Benutzern angemessene IAM-Richtlinien zuweisen
+
+Antwort:
+Den Benutzern angemessene IAM-Richtlinien zuweisen
+____________________________________________________
+
+Frage 7:
+Welche der folgenden Aussagen ist WAHR?
+Die AWS CLI kann mit AWS über Befehle in Ihrer Kommandozeile interagieren, während das AWS SDK programmatisch mit AWS interagieren kann.
+Das AWS SDK kann mit AWS über Befehle in Ihrer Kommandozeile interagieren, während die AWS CLI programmatisch mit AWS interagieren kann.
+
+Das AWS SDK kann mit AWS über Befehle in Ihrer Kommandozeile interagieren, während die AWS CLI programmatisch mit AWS interagieren kann.
+____________________________________________________
+
+Frage 8:
+Welches Prinzip sollten Sie bezüglich IAM-Berechtigungen anwenden?
+Am meisten Privilegien gewähren
+Am wenigsten Privilegien gewähren
+Berechtigungen gewähren, wenn Ihr Mitarbeiter Sie darum bittet
+Root-Kontoberechtigungen einschränken
+
+Antwort:
+Am wenigsten Privilegien gewähren.
+
+Für die Beantwortung der Fragen habe ich keine Unterlagen benutzt, sondern das heute erlange Wissen angewandt. 
+Nachträglich habe ich dann die Folien des heutigen Tages gesichtet und kontrolliert, ob meine Antworten korrekt waren.
+Darüber hinaus wurde uns ja der folgende Link zur Verfügung gestellt:
+https://docs.aws.amazon.com/de_de/IAM/latest/UserGuide/introduction.html
