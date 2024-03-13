@@ -39,5 +39,31 @@ https://aws.amazon.com/de/s3/pricing/?nc=sn&loc=4
 
 Bezüglich der 650TB ist es schwer zu sagen, da es abhängig von der Anwendung ist. Wenn der Kunde so gut wie gar nicht auf die Daten zugreifen muss, wäre ein Deep Archive die beste Wahl, ansonsten ist es notwendig zu wissen, was ein Kunde genau machen will. 
 Ein gutes Angebot kann nur dann erstellt werden, wenn in Erfahrung gebracht wurde, was für Anforderungen der Speicher erfüllen muss. 
-Gehen wir aber davpn aus, dass der Kunde nicht auf den Speicher zugreifen muss, anstatt, dass er es nicht bezahlen will, bleibe ich bei dem Deep Archive S3 Glacier. Für 650TB würde das Unternehmen in diesem Fall 0,858USD bezahlen.
+Gehen wir aber davon aus, dass der Kunde nicht auf den Speicher zugreifen muss, anstatt, dass er es nicht bezahlen will, bleibe ich bei dem Deep Archive S3 Glacier. Für 650TB würde das Unternehmen in diesem Fall 0,858USD bezahlen.
 
+Wichtige Services sind:
+
+AMAZON EC2
+EBS
+AMAZON S3
+AWS DATABASE SOLUTIONS
+AMAZON Aurora
+Amazon RDS
+Amazon DynamoDB
+Amazon Lightsail
+CloudFormation
+AWS Elastic Beanstalk
+Elastic Block Store
+
+Well Architected Framework:
+https://aws.amazon.com/de/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc
+https://docs.aws.amazon.com/de_de/wellarchitected/latest/framework/welcome.html
+
+Prinzipien der Nachhaltigkeit:
+https://docs.aws.amazon.com/de_de/wellarchitected/latest/framework/welcome.html
+
+Tools:
+https://aws.amazon.com/de/sustainability/tools/
+
+Vertikale Skalierung heißt, dass du eine Instanz hast und eine Maschine mit mehrr Hardware Ressourcen buchst. Dies hat zur Folge, dass Inhalte "umziehen" müssen.
+Bei der Horizontalen Skalierung hast du eine Instanz und sobald mehr Leistung benötigt wird, wird eine Instanz mit den selben Spezifikation eingeschaltet und eingebunden.
