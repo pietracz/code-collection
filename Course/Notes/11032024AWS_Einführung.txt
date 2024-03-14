@@ -111,3 +111,19 @@ Zugriff auf AWS:
 Management Console
 CLI(Command Line Interface)
 SDK(Software Developer Kit)
+
+IAM Sicherheitstools:
+IAM Credentials Report - Bei zu langer Abwesenheit taucht sowas im Report auf. (Bericht zu Anmeldeinformationen)
+IAM Access Advisor
+
+Elastic Cloud Compute EC2:
+Schnellstart AMIs
+
+EC2 Benutzereingabe
+Bootstrap 
+
+AWS Linux hat AWS CLI schon installiert, womit dann auf die Website zugegriffen werden kann
+
+EC2 Instanzen können mit IAM Rollen versehen werden, um damit Berechtigungen für AWS zu erhalten 
+
+Rollen haben eine temporäre Laufzeit, diese kann angepasst werden
