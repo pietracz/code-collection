@@ -117,7 +117,7 @@ IAM Credentials Report - Bei zu langer Abwesenheit taucht sowas im Report auf. (
 IAM Access Advisor
 
 Elastic Cloud Compute EC2:
-Schnellstart AMIs
+Schnellstart AMIs Amazon Maschine Image
 
 EC2 Benutzereingabe
 Bootstrap 
