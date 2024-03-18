@@ -1,0 +1,13 @@
+.Background{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -9; /* Ensures it stays behind other content */
+    /* Add any additional styling you need for your animation */
+  }
+
+  #large-header{
+   max-height: 0vh;
+  }
