@@ -6,6 +6,7 @@
     outline: none;
     border: none;
     text-decoration: none;
+    -webkit-font-smoothingfont-smoothing: auto;
 }
 
 body {
@@ -14,6 +15,7 @@ body {
     font-style: normal;
     color: #DEFFFC;
     background: #070617;
+    overflow-x: hidden;
 }
 
 section {
