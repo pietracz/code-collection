@@ -1,0 +1,6 @@
+Es wird zu erst eine VPC benötigt
+Zusätzlich brauchen wir Sicherheitsgruppen Konfigurationen
+Es werden dann EC2 Maschinen benötigt
+Für High Availabilitie brauchen wir ggf die AZs zum zuordnen
+Anschließen müssen wir die VPC und Sicherheitsgruppen im Load Balancer zuteilen
+Danach ist eine Zielgruppe notwendig - diese kann erstellt werden 
