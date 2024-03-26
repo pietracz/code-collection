@@ -1,0 +1,12 @@
+Cloudformation ist IaaC (Infrastructure as code)
+Infrastructure as code ist quasi das Erstellen einer Infrastruktur für ein Projekt oder für Tests, aber per vorgefertigtem Script.
+
+Pulumi oder Terraform 
+Terraform endet auch mit .tf 
+
+CaaS kann entweder Deklarativ oder Imparativ sein
+
+Elastic Beanstalk - Platform as a Service
+Ist eine automatisierte Hilfe um Load Balancer und Auto Scaler zu konfigurieren
+Beanstalk ist nicht mit Kosten verbunden, nur die Ressourcen, die durch Beanstalk zur Verfügung gestellt werden
+Beanstalk benutzt unter anderem Cloud Formation zur Einbindung der Ressourcen
