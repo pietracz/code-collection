@@ -1,0 +1,22 @@
+VPC Peering
+Bedient sich einem Peering Tunnel um eine VPC 1 mit der VPC 2 zusammenzuschließen 
+
+Single Point of Management = Transit Gateway (THCP Zentral)
+Bis zu 10000 mögliche Routen
+
+VPC Endpoint Gateway und VPC Endpoint Interface
+Endpoint Gateway ist nur relevant für S3 und DynamoDB alle anderen nutzen Endpoint Interface
+Bessere Latenz und Sicherheit, weil nur im AWS Netz
+
+AWS STS VPN (Site to site)
+https://docs.aws.amazon.com/de_de/vpn/latest/s2svpn/VPC_VPN.html
+
+AWS Direct Connect (DX)
+On Premise Netzwerk wird über eine VPN Verbindung in einem privaten Netzwerk zur VPC erstellt
+Es wird geschaut, wie du an deinem Standort schnellstmöglich ins AWS Netzwerk, über eine private Kabelverbindung, einsteigen kannst.
+Das KANN auch über Edge Locations laufen, um schneller ins AWS Netz zu kommen.
+Reservierung und Einrichtung der dedizierten Leitung kann bis zu 30 Tage dauern.
+
+Allgemein ist bei einem VPN Tunnel ein Customer Gateway auf AWS Kunden Seite notwendig (Eingang) und das Virtual Private Gateway (Ausgang) in der AWS Cloud
+
+AWS Client VPN 

@@ -1,0 +1,4 @@
+NACL arbeitet auf IP Ebene
+Securitygroup auf Protokoll Ebene
+
+Empfehlung: Lernen Dokumentation schreiben
