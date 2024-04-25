@@ -20,6 +20,7 @@
 				"username": "julian",
 				"connectionTimeout": 50
 			}
-		]
+		],
+		"liveServer.settings.port": 5501
 	}
 }
