@@ -1,0 +1,18 @@
+Beginnend mit ./backend/server.json
+npm init
+npm install nodemon
+
+Im Backend wurde nodejs verwendet, um Abfragen aufzugreifen.
+npm install express
+npm install cors
+npm install fs
+npm install body-parser
+
+express stellt das Herzstück unseres Server da. Mit const app = express(); initialsieren wir die Express-App. Routing, Middleware und Verwalten von Anfragen findet darüber statt.
+Über das app-Objekt greifen wir auf die Express-Anwendungen zu.
+
+body-parser ist eine wichtige Middleware, 
+
+git log um commit codes zu erhalten 
+git checkout 'commit code' um auf einen älteren commit zurückzugehen
+git remote origin 'url'

@@ -1,0 +1,78 @@
+.head-container {
+	text-align: center;
+	background-color: #70798C;
+	color: #F5F1ED;
+	padding: 10px;
+	border: 2px solid black;
+}
+
+#picture1 {
+	background-color: #F5F1ED;
+	width: 300px;
+	height: 300px;
+	border: solid 5px; /*border-color kann auch hinter dem px Befehl eingetragen werden (border: solid 5px #A0002B;*/
+	border-color: #A0002B;
+	border-radius: 150px;
+	padding-bottom: 0px;
+	padding-top: 300px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+}
+
+#picture2 {
+		background-color: #F5F1ED;
+	width: 300px;
+	height: 300px;
+	border: solid 5px; /*border-color kann auch hinter dem px Befehl eingetragen werden (border: solid 5px #A0002B;*/
+	border-color: #A0002B;
+	border-radius: 300px;
+	padding-bottom: 300px;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#little {
+	font-family: 'Catamaran', sans-serif;
+}
+
+.page-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.image-container1 {
+	display: flex;
+	justify-content: space-between;
+}
+
+figure {
+	text-align: center;
+	flex-basis: calc(50%-10px)
+}
+
+.picture {
+	max-width: 100%;
+	margin: 5px;
+}
+
+.list-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.span-about {
+	color: red;
+}

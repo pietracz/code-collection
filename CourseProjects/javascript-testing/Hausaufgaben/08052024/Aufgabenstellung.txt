@@ -1,0 +1,36 @@
+Aufgabe 1:
+Schreibe ein Programm, mit einer Funktion “aufgabe1”. Diese Funktion nimmt einen String entgegen und gibt diesen rückwärts in der Konsole aus. 
+
+Aufgabe 2:
+Erstelle eine kleine Webseite, die auf Knopfdruck ein zufälliges Passwort generiert und es auf der Konsole oder in einem p-Element ausgibt. Das Passwort sollte eine Kombination aus Buchstaben, Zahlen und Sonderzeichen enthalten und eine vom Benutzer festgelegte Länge haben.
+
+Aufgabe 3:
+Erstelle eine Website mit einem Button und füge ein Javascript ein. Das Javascript soll bewirken, dass wenn der Button gedrückt wird, sich die Farbe des Buttons verändert. 
+Bonus: Schreibe eine Funktion, die eine zufällige Farbe generiert (in der Form “#123ABC”). Siehe dir dazu gerne die Hexadezimal-Schreibweise für Farben in CSS an.
+
+Aufgabe 4 + 5:
+4: Erstelle eine Website und hänge ein Javascript dran. Das Skript soll eine Funktion beinhalten, die einen Radius als Input nimmt und den Durchmesser zurückgibt.
+5: Die Seite soll einen Kreis beinhalten und eine Eingabe mit einem Button. Wenn der Button gedrückt wird, soll der Kreis auf den passenden Radius/Durchmesser aus der Eingabe vergrößtert/geschrumpft werden.
+
+Aufgabe 6:
+Erstelle eine HTML und binde eine Javascript-Datei ein. Die HTML Seite soll aus 3 Divs bestehen, die jeweils einen Button beinhalten. Die 3 Buttons sollen auf gleicher Höhe und gleichmäßig auf dem Bildschirm verteilt erscheinen(CSS!). 
+Beim Click auf einen der Buttons soll ein Bild im jeweiligen Drittel unter dem Button hinzugefügt werden.
+Aufgabe 7:
+Übe den richtigen Umgang mit Zugriffen Daten im JSON-Format (in Javascript). Nimm die unten stehenden Daten und speichere sie in eine Konstante mit dem Namen “data”.
+Gib folgende Sachen mit “console.log” und der passenden Abfrage in der Konsole aus:
+Titel des ersten Buches.
+Autor des zweiten Buches.
+Erscheinungsjahr des dritten Buches.
+Genres des ersten Buches, jeweils getrennt durch Kommata.
+Aufgabe 8:
+Versuche dich selbst an der “forEach()”-Methode von Arrays in JavaScript!
+Nimm den Datensatz aus Aufgabe 8 und speichere ihn in eine Konstante mit dem Namen “data”. Schreibe insgesamt 4 “forEach()” Aufrufe, um folgende Sachen in der Konsole auszugeben:
+
+
+Alle Autoren
+Jeweils das erste aufgelistete Genre
+Alle Genres von “Das Parfum”
+Alle Buchtitel, die mit “D” anfangen! 
+
+Aufgabe 9:
+Übersetze folgende for-Schleifen in while-Schleifen und while-Schleifen in for-Schleifen. Die resultierende neue Schleife soll exakt die gleiche Ausgabe ergeben, wie die Vorlage.

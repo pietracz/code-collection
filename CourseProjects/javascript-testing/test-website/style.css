@@ -1,0 +1,48 @@
+body {
+  border: 0px;
+  margin: 0px;
+  background-color: #070617;
+}
+
+header {
+  border: 1px solid #defffc;
+}
+
+.navbar * {
+  display: flex;
+  text-decoration: none;
+  justify-content: center;
+  margin: 10px 20px;
+  color: #defffc;
+}
+
+.navbar a:hover {
+  color: #e0deff;
+}
+
+main {
+  display: flex;
+  height: 100vh;
+}
+
+section {
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  flex: 1;
+  font-size: larger;
+  font-weight: bolder;
+  padding: 10px;
+}
+
+#peach {
+  background-color: #f7c59f;
+}
+
+#mint-green {
+  background-color: #defffc;
+}
+
+#fire-engine-red {
+  background-color: #d62828;
+}

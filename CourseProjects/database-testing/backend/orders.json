@@ -1,0 +1,42 @@
+[
+  {
+    "orderID": 1,
+    "customerID": 3,
+    "orderDate": "2024-07-03T09:20:00Z",
+    "status": "processing",
+    "total": 2498,
+    "paymentMethod": "credit_card"
+  },
+  {
+    "orderID": 2,
+    "customerID": 8,
+    "orderDate": "2024-07-02T15:30:00Z",
+    "status": "shipped",
+    "total": 1099,
+    "paymentMethod": "paypal"
+  },
+  {
+    "orderID": 3,
+    "customerID": 5,
+    "orderDate": "2024-07-01T11:45:00Z",
+    "status": "delivered",
+    "total": 1998,
+    "paymentMethod": "credit_card"
+  },
+  {
+    "orderID": 4,
+    "customerID": 1,
+    "orderDate": "2024-06-30T18:15:00Z",
+    "status": "processing",
+    "total": 1748,
+    "paymentMethod": "credit_card"
+  },
+  {
+    "orderID": 5,
+    "customerID": 10,
+    "orderDate": "2024-06-29T10:00:00Z",
+    "status": "cancelled",
+    "total": 599,
+    "paymentMethod": "credit_card"
+  }
+]

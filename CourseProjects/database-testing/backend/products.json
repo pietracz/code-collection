@@ -1,0 +1,1039 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14 Pro",
+    "manufacturer": "Apple",
+    "price": 1099,
+    "color": ["Polarstar", "RED", "Midnight"],
+    "description": "Profi-Smartphone mit leistungsstarkem A16 Bionic Chip und fortschrittlichem Kamerasystem.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "iOS 16",
+      "cpu": "A16 Bionic Chip",
+      "storage": ["128GB", "256GB", "512GB", "1TB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "AppleFan",
+        "text": "Die Kamera ist einfach unglaublich! Die Bildqualität ist atemberaubend.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "TechReviewer",
+        "text": "Der neue A16 Chip ist sehr schnell und die Akkulaufzeit ist beeindruckend.",
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "userName": "User123",
+        "text": "Ich liebe das Design und die neuen Funktionen. Ein tolles Upgrade!",
+        "rating": 5
+      },
+      {
+        "id": 4,
+        "userName": "Skeptiker",
+        "text": "Der Preis ist sehr hoch und einige Funktionen sind noch nicht ausgereift.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S23 Ultra",
+    "manufacturer": "Samsung",
+    "price": 1199,
+    "color": ["Snow", "Obsidian", "Hazel"],
+    "description": "Das ultimative Smartphone-Erlebnis mit leistungsstarker Kamera und großem Display.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Snapdragon 8 Gen 2",
+      "storage": ["128GB", "256GB", "512GB", "1TB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "TechFan2024",
+        "text": "Die Kamera ist der Wahnsinn! Der Zoom ist unglaublich.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "AndroidUser",
+        "text": "Ein tolles Smartphone, aber der Preis ist etwas hoch.",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "userName": "SamsungCritic",
+        "text": "Die Software ist manchmal etwas langsam und die Akkulaufzeit könnte besser sein.",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 7 Pro",
+    "manufacturer": "Google",
+    "price": 899,
+    "color": ["Snow", "Obsidian", "Hazel"],
+    "description": "Pure Android-Erfahrung mit beeindruckender Kamera und cleveren Software-Features.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Google Tensor G2",
+      "storage": ["128GB", "256GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "AndroidEnthusiast",
+        "text": "Das beste Android-Handy auf dem Markt! Die Kamera ist fantastisch.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "userName": "PixelUser",
+        "text": "Ich bin sehr zufrieden mit dem Pixel 7 Pro. Es ist schnell und zuverlässig.",
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "userName": "DisappointedUser",
+        "text": "Das Display ist nicht so hell wie erwartet und der Fingerabdrucksensor ist manchmal träge.",
+        "rating": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi 13 Pro",
+    "manufacturer": "Xiaomi",
+    "price": 999,
+    "color": ["Ceramic Black", "Ceramic White", "Flora Green"],
+    "description": "High-End-Leistung zum fairen Preis mit schnellem Laden und vielseitiger Kamera.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Snapdragon 8 Gen 2",
+      "storage": ["256GB", "512GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "PreisLeistungsFreak",
+        "text": "Unglaublich viel für das Geld! Die Kamera ist top.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "XiaomiUser",
+        "text": "Die Benutzeroberfläche ist gewöhnungsbedürftig und die Update-Politik von Xiaomi ist nicht ideal.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "OnePlus 11",
+    "manufacturer": "OnePlus",
+    "price": 849,
+    "color": ["Eternal Green", "Titan Black"],
+    "description": "Schnelles und flüssiges Smartphone-Erlebnis mit einzigartigem Design und schnellem Laden.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Snapdragon 8 Gen 2",
+      "storage": ["128GB", "256GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "SpeedDemon",
+        "text": "Das schnellste Handy, das ich je hatte! Das Display ist fantastisch.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "OnePlusCritic",
+        "text": "Die Kameraqualität ist nicht so gut wie bei anderen Flaggschiffen und die Software hat noch ein paar Bugs.",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sony Xperia 1 V",
+    "manufacturer": "Sony",
+    "price": 1399,
+    "color": ["Schwarz", "Platin Silber", "Khaki Grün"],
+    "description": "Für Foto- und Video-Enthusiasten: Einzigartiges 4K-Display und professionelle Kamerafunktionen.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Snapdragon 8 Gen 2",
+      "storage": ["256GB", "512GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "FilmmakerPro",
+        "text": "Perfekt für meine Filmprojekte!",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "TechEnthusiast",
+        "text": "Der Preis ist hoch, aber die Leistung und die Kamera sind unschlagbar. Das Xperia 1 V ist ein Kraftpaket für Kreative und alle, die das Beste wollen.",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "userName": "MobileGamer",
+        "text": "Als Gamer bin ich enttäuscht. Der Akku hält bei anspruchsvollen Spielen nicht lange durch. Für den Preis hätte ich mehr erwartet.",
+        "rating": 3
+      },
+      {
+        "id": 4,
+        "userName": "SonyFan",
+        "text": "Das Xperia 1 V ist ein Traum für jeden Sony-Liebhaber. Design, Verarbeitung und Software sind top. Die Kamera ist einfach fantastisch!",
+        "rating": 5
+      },
+      {
+        "id": 5,
+        "userName": "Pragmatiker",
+        "text": "Ein Nischenprodukt für Foto- und Video-Enthusiasten. Wer nicht viel Wert darauf legt, findet günstigere Alternativen.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Nothing Phone (2)",
+    "manufacturer": "Nothing",
+    "price": 599,
+    "color": ["Schwarz", "Weiß"],
+    "description": "Auffälliges Design mit transparenter Rückseite und einzigartigem Glyph-Interface.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Snapdragon 8+ Gen 1",
+      "storage": ["128GB", "256GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "StyleGuru",
+        "text": "Ein echter Hingucker! Das Design ist einfach einzigartig.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "TechEnthusiast",
+        "text": "Die Performance ist gut, aber die Kamera könnte besser sein.",
+        "rating": 3
+      },
+      {
+        "id": 3,
+        "userName": "NothingUser",
+        "text": "Ich liebe das Glyph-Interface! Es ist wirklich innovativ.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Motorola Edge 40 Pro",
+    "manufacturer": "Motorola",
+    "price": 899,
+    "color": ["Interstellar Black", "Lunar Blue"],
+    "description": "Leistungsstarkes Smartphone mit 200 MP Kamera und ultraschnellem Laden.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Dimensity 9200+",
+      "storage": ["256GB", "512GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "FotoFanatiker",
+        "text": "Die 200 MP Kamera ist unglaublich detailreich! Das Laden geht super schnell.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "MotoUser",
+        "text": "Die Software ist manchmal etwas buggy, aber insgesamt ein gutes Smartphone.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Asus ROG Phone 7",
+    "manufacturer": "Asus",
+    "price": 1099,
+    "color": ["Phantom Black", "Storm White"],
+    "description": "Das ultimative Gaming-Smartphone mit leistungsstarkem Prozessor und speziellen Gaming-Features.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Snapdragon 8 Gen 2",
+      "storage": ["256GB", "512GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "GamerGirl",
+        "text": "Das beste Handy für Mobile Gaming! Die Performance ist der Wahnsinn.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "CasualGamer",
+        "text": "Für den Preis hätte ich eine bessere Kamera erwartet.",
+        "rating": 3
+      },
+      {
+        "id": 3,
+        "userName": "MobileGamer",
+        "text": "Die Lüfter sind etwas laut, aber das Handy bleibt beim Spielen kühl.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Fairphone 5",
+    "manufacturer": "Fairphone",
+    "price": 699,
+    "color": ["Sky Green", "Matte Black", "Transparent"],
+    "description": "Nachhaltiges und modulares Smartphone mit Fokus auf faire Produktion und lange Lebensdauer.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Qualcomm QCM6490",
+      "storage": ["128GB", "256GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "Umweltbewusst",
+        "text": "Endlich ein Smartphone mit gutem Gewissen! Die Modularität ist super.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "userName": "FairphoneUser",
+        "text": "Die Leistung ist nicht die beste, aber das ist für mich zweitrangig.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Apple Watch Series 9",
+    "manufacturer": "Apple",
+    "price": 449,
+    "color": ["Polarstern", "Mitternacht", "Silber", "(PRODUCT)RED"],
+    "description": "Die fortschrittlichste Apple Watch mit neuen Gesundheitsfunktionen und schnellerem Prozessor.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "watchOS",
+      "displaySize": ["41mm", "45mm"],
+      "connectivity": "GPS + Cellular"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "iLover",
+        "text": "Die EKG-Funktion ist super! Das Design ist elegant.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "userName": "FitnessEnthusiast",
+        "text": "Die Fitness-Tracking-Funktionen sind sehr genau und motivierend.",
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "userName": "AppleWatchUser",
+        "text": "Die Akkulaufzeit könnte etwas besser sein, aber insgesamt eine tolle Smartwatch.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Samsung Galaxy Watch 6 Classic",
+    "manufacturer": "Samsung",
+    "price": 399,
+    "color": ["Schwarz", "Silber"],
+    "description": "Elegante Smartwatch mit drehbarer Lünette und umfassenden Fitness-Tracking.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "Wear OS",
+      "displaySize": ["43mm", "47mm"],
+      "connectivity": "Bluetooth/Wi-Fi"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "FitFreak",
+        "text": "Der Akku hält ewig und das Design ist klasse!",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "SamsungWatchUser",
+        "text": "Die Lünette ist sehr praktisch und die Gesundheitsfunktionen sind nützlich.",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "userName": "TechReviewer",
+        "text": "Die Leistung könnte etwas besser sein, aber für den Preis ist es in Ordnung.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Garmin fenix 7",
+    "manufacturer": "Garmin",
+    "price": 699,
+    "color": ["Schwarz", "Weiß", "Grau", "Solar"],
+    "description": "Outdoor-Smartwatch mit GPS, Karten und umfangreichen Sportfunktionen.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "Garmin OS",
+      "displaySize": ["42mm", "47mm", "51mm"],
+      "connectivity": "Multi-GNSS, Bluetooth, Wi-Fi"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "OutdoorEnthusiast",
+        "text": "Perfekt für meine Abenteuer! Die Navigation ist top und die Akkulaufzeit ist super.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "Hiker",
+        "text": "Die Karten sind sehr detailliert und die Sportmodi sind umfangreich.",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "userName": "GarminUser",
+        "text": "Die Uhr ist etwas klobig und die Bedienung gewöhnungsbedürftig.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Fitbit Sense 2",
+    "manufacturer": "Fitbit",
+    "price": 299,
+    "color": ["Grau", "Weiß", "Blau"],
+    "description": "Gesundheits- und Fitness-Smartwatch mit Stressmanagement und EDA-Scan.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "Fitbit OS",
+      "displaySize": ["40.48mm"],
+      "connectivity": "Bluetooth, Wi-Fi"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "WellnessGuru",
+        "text": "Hilft mir, Stress abzubauen und meine Gesundheit besser zu verstehen.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "userName": "FitnessTracker",
+        "text": "Die Schlafüberwachung ist sehr genau und die Stressmanagement-Tools sind nützlich.",
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "userName": "FitbitUser",
+        "text": "Die Akkulaufzeit könnte etwas länger sein, aber insgesamt eine gute Smartwatch.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Amazfit GTR 4",
+    "manufacturer": "Amazfit",
+    "price": 199,
+    "color": ["Schwarz", "Braun", "Grau"],
+    "description": "Preisgünstige Smartwatch mit langer Akkulaufzeit und vielen Sportmodi.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "Zepp OS",
+      "displaySize": ["46mm"],
+      "connectivity": "Bluetooth, Wi-Fi"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "BudgetShopper",
+        "text": "Top Preis-Leistungs-Verhältnis! Die Akkulaufzeit ist beeindruckend.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "userName": "AmazfitFan",
+        "text": "Viele Funktionen für den Preis, aber die Genauigkeit des GPS könnte besser sein.",
+        "rating": 3
+      },
+      {
+        "id": 3,
+        "userName": "StyleConscious",
+        "text": "Sieht gut aus und ist angenehm zu tragen. Für den Alltag perfekt.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Huawei Watch GT 3 Pro",
+    "manufacturer": "Huawei",
+    "price": 329,
+    "color": ["Schwarz", "Weiß", "Braun"],
+    "description": "Premium-Smartwatch mit EKG-Funktion und langer Akkulaufzeit.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "HarmonyOS",
+      "displaySize": ["46.6mm"],
+      "connectivity": "Bluetooth, Wi-Fi"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "HuaweiFan",
+        "text": "Sieht edel aus und funktioniert super! Die EKG-Funktion ist ein Plus.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "HealthTracker",
+        "text": "Die Gesundheitsfunktionen sind sehr umfangreich und genau.",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "userName": "AndroidUser",
+        "text": "Die App-Auswahl ist begrenzt, aber für meine Bedürfnisse reicht es.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Fossil Gen 6",
+    "manufacturer": "Fossil",
+    "price": 299,
+    "color": ["Schwarz", "Silber", "Roségold", "Braun"],
+    "description": "Modische Smartwatch mit Wear OS und vielen Designs.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "Wear OS",
+      "displaySize": ["42mm", "44mm"],
+      "connectivity": "Bluetooth, Wi-Fi"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "Fashionista",
+        "text": "Passt perfekt zu meinem Outfit! Die große Auswahl an Designs ist toll.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "userName": "WearOSUser",
+        "text": "Die Integration mit Google Assistant ist sehr praktisch.",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "userName": "FossilCritic",
+        "text": "Die Akkulaufzeit ist nicht die beste und die Performance könnte etwas schneller sein.",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Polar Pacer Pro",
+    "manufacturer": "Polar",
+    "price": 299,
+    "color": ["Schwarz", "Weiß", "Blau"],
+    "description": "Sportuhr mit GPS und detaillierten Trainingsanalysen.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "Polar OS",
+      "displaySize": ["45mm"],
+      "connectivity": "GPS, Bluetooth"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "RunnerGirl",
+        "text": "Mein neuer Laufpartner! Die Trainingsanalysen sind sehr hilfreich.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "Athlete",
+        "text": "Die GPS-Genauigkeit ist beeindruckend und die Uhr ist sehr leicht.",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "userName": "PolarUser",
+        "text": "Ich wünschte, es gäbe mehr Smartwatch-Funktionen.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "TicWatch Pro 5",
+    "manufacturer": "Mobvoi",
+    "price": 359,
+    "color": ["Obsidian", "Schwarz"],
+    "description": "Innovative Smartwatch mit dualem Display für längere Akkulaufzeit.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "Wear OS",
+      "displaySize": ["45mm", "44mm"],
+      "connectivity": "GPS, Bluetooth, Wi-Fi"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "TechGeek",
+        "text": "Das duale Display ist genial! Die Akkulaufzeit ist unglaublich.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "userName": "WearOSFan",
+        "text": "Die Performance ist gut und die App-Auswahl ist großartig.",
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "userName": "TicWatchUser",
+        "text": "Das Design ist etwas gewöhnungsbedürftig, aber die Funktionen sind top.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Suunto 9 Peak Pro",
+    "manufacturer": "Suunto",
+    "price": 499,
+    "color": ["Schwarz", "Weiß", "Titan"],
+    "description": "Robuste Outdoor-Smartwatch mit langer Akkulaufzeit und präzisem GPS.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "Suunto OS",
+      "displaySize": ["43mm", "47mm"],
+      "connectivity": "GPS, Bluetooth, Wi-Fi"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "MountainClimber",
+        "text": "Hält alles aus und zeigt mir den Weg! Die Akkulaufzeit ist der Wahnsinn.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "OutdoorAdventurer",
+        "text": "Die Navigationsfunktionen sind sehr gut und die Uhr ist super robust.",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "userName": "SuuntoCritic",
+        "text": "Die Smartwatch-Funktionen sind etwas begrenzt, aber für Outdoor-Aktivitäten perfekt.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "iPhone 14",
+    "manufacturer": "Apple",
+    "price": 899,
+    "color": ["Polarstern", "Mitternacht", "Blau", "Violett", "(PRODUCT)RED"],
+    "description": "Leistungsstarkes Smartphone mit A15 Bionic Chip und verbesserter Kamera.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "iOS 16",
+      "cpu": "A15 Bionic Chip",
+      "storage": ["128GB", "256GB", "512GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "iUser4Life",
+        "text": "Ein solides Upgrade vom iPhone 13. Die Kamera ist spürbar besser und die Akkulaufzeit ist top.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "AppleCritic",
+        "text": "Zu wenig Innovation für den hohen Preis. Das Design ist fast identisch zum Vorgänger.",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Apple Watch SE (2. Generation)",
+    "manufacturer": "Apple",
+    "price": 299,
+    "color": ["Polarstern", "Mitternacht", "Silber"],
+    "description": "Günstige Apple Watch mit vielen Funktionen für Fitness und Gesundheit.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "watchOS",
+      "displaySize": ["40mm", "44mm"],
+      "connectivity": "GPS"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "BudgetConscious",
+        "text": "Viel Apple Watch für wenig Geld. Perfekt für Einsteiger und alle, die nicht das neueste Modell brauchen.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "userName": "FitnessNewbie",
+        "text": "Motiviert mich, mich mehr zu bewegen und auf meine Gesundheit zu achten. Die Schlafanalyse ist super!",
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "userName": "AppleWatchProUser",
+        "text": "Für den Preis fehlen mir einige Funktionen der Series 9. Die EKG- und Blutsauerstoffmessung wären toll gewesen.",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Samsung Galaxy Z Fold5",
+    "manufacturer": "Samsung",
+    "price": 1799,
+    "color": ["Ice Blue", "Phantom Black", "Cream"],
+    "description": "Innovatives faltbares Smartphone mit großem Display und leistungsstarker Hardware.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Snapdragon 8 Gen 2",
+      "storage": ["256GB", "512GB", "1TB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "EarlyAdopter",
+        "text": "Die Zukunft der Smartphones! Das große Display ist perfekt für Multitasking und Medien.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "TechSkeptic",
+        "text": "Der Preis ist sehr hoch und die Haltbarkeit des Faltmechanismus ist fraglich.",
+        "rating": 2
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Samsung Galaxy Watch 6",
+    "manufacturer": "Samsung",
+    "price": 299,
+    "color": ["Grau", "Gold", "Silber"],
+    "description": "Smartwatch mit schlankem Design und umfangreichen Gesundheitsfunktionen.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "Wear OS",
+      "displaySize": ["40mm", "44mm"],
+      "connectivity": "Bluetooth/Wi-Fi"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "SamsungFan",
+        "text": "Ein würdiger Nachfolger der Galaxy Watch 5. Die Akkulaufzeit ist super und die neuen Gesundheitsfunktionen sind toll.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "userName": "WearOSLover",
+        "text": "Die Integration mit Google Assistant ist sehr praktisch und die App-Auswahl ist groß.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Sony Xperia 5 V",
+    "manufacturer": "Sony",
+    "price": 999,
+    "color": ["Schwarz", "Platinsilber", "Blau"],
+    "description": "Kompaktes Flaggschiff mit professionellen Kamerafunktionen und 4K HDR OLED-Display.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Snapdragon 8 Gen 2",
+      "storage": ["128GB", "256GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "CompactPhoneLover",
+        "text": "Endlich ein handliches High-End-Smartphone! Die Kamera ist top und das Display gestochen scharf.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "Audiophile",
+        "text": "Der Sound über die Kopfhörerbuchse ist fantastisch! Sony bleibt seinen Stärken treu.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Sony Xperia 10 V",
+    "manufacturer": "Sony",
+    "price": 449,
+    "color": ["Schwarz", "Weiß", "Lavendel", "Salbei Grün"],
+    "description": "Mittelklasse-Smartphone mit 21:9 OLED-Display und 5000 mAh Akku.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Snapdragon 695",
+      "storage": ["128GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "BudgetMinded",
+        "text": "Gutes Smartphone für den Preis. Das Display ist super für Filme und Serien.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "userName": "CasualUser",
+        "text": "Die Kamera ist okay, aber bei wenig Licht nicht so gut. Für den Alltag reicht es aber.",
+        "rating": 3
+      },
+      {
+        "id": 3,
+        "userName": "SonyLoyalist",
+        "text": "Ich liebe das schlanke Design und die lange Akkulaufzeit. Ein solides Mittelklasse-Gerät von Sony.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sony SmartWatch 4",
+    "manufacturer": "Sony",
+    "price": 279,
+    "color": ["Schwarz", "Silber"],
+    "description": "Sportliche Smartwatch mit Wear OS und vielen Fitnessfunktionen.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "Wear OS",
+      "displaySize": "1.32\"",
+      "connectivity": "GPS, Bluetooth, Wi-Fi"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "FitnessTracker",
+        "text": "Die Trainingserfassung ist sehr genau und die Akkulaufzeit ist gut.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "userName": "WearOSFan",
+        "text": "Ich mag die Integration mit Google Assistant und die vielen verfügbaren Apps.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Google Pixel 7a",
+    "manufacturer": "Google",
+    "price": 509,
+    "color": ["Charcoal", "Snow", "Sea", "Coral"],
+    "description": "Erschwingliches Pixel-Smartphone mit Google Tensor G2 Chip und beeindruckender Kamera.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Google Tensor G2",
+      "storage": ["128GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "PixelFan",
+        "text": "Unglaublich viel Smartphone für den Preis! Die Kamera ist fast so gut wie beim Pixel 7 Pro.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "BudgetShopper",
+        "text": "Das beste Preis-Leistungs-Verhältnis auf dem Markt. Die Software ist top und die Kamera macht tolle Bilder.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Google Pixel Watch",
+    "manufacturer": "Google",
+    "price": 379,
+    "color": ["Schwarz", "Silber", "Gold"],
+    "description": "Die erste Smartwatch von Google mit Wear OS und Fitbit-Integration.",
+    "image": "https://www.infranken.de/storage/image/9/3/8/4/4114839_bei-amazon-findest-du-tolle-smart-watch-angebote-rund-um-den-black-friday_artikel-detail-bild_1BlSy3_y5jiEH.jpg",
+    "technicalDetails": {
+      "type": "Smartwatch",
+      "os": "Wear OS",
+      "displaySize": "1.2\"",
+      "connectivity": "Bluetooth/Wi-Fi"
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "GoogleEnthusiast",
+        "text": "Endlich eine Google-Smartwatch! Die Integration mit meinem Pixel-Smartphone ist nahtlos.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "userName": "WearOSUser",
+        "text": "Die Akkulaufzeit könnte besser sein, aber das Design und die Funktionen sind super.",
+        "rating": 3
+      },
+      {
+        "id": 3,
+        "userName": "FitnessFan",
+        "text": "Die Fitbit-Integration ist großartig! Ich liebe die Gesundheits- und Fitnessfunktionen.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Asus Zenfone 9",
+    "manufacturer": "Asus",
+    "price": 799,
+    "color": ["Schwarz", "Weiß", "Rot", "Blau"],
+    "description": "Kompaktes Kraftpaket mit Snapdragon 8+ Gen 1 Prozessor und Gimbal-Stabilisierung.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "Snapdragon 8+ Gen 1",
+      "storage": ["128GB", "256GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "PowerUser",
+        "text": "Die Leistung ist unglaublich! Das Zenfone 9 ist klein, aber oho.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "PhotographyEnthusiast",
+        "text": "Die Gimbal-Stabilisierung macht einen riesigen Unterschied bei Videos. Die Bildqualität ist top.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Asus ROG Phone 6D",
+    "manufacturer": "Asus",
+    "price": 949,
+    "color": ["Space Gray", "Phantom Black"],
+    "description": "Gaming-Smartphone mit MediaTek Dimensity 9000+ Chip und speziellen Gaming-Features.",
+    "image": "https://www.zdnet.com/a/img/resize/e889f5ab7352d3b8a21ccf591d37c32342c36c4b/2024/02/02/fe353b53-8b16-494b-96e0-2d83788da0f2/dsc01662-enhanced-nr.jpg?auto=webp&fit=crop&height=360&width=640",
+    "technicalDetails": {
+      "type": "Smartphone",
+      "os": "Android",
+      "cpu": "MediaTek Dimensity 9000+",
+      "storage": ["256GB", "512GB"]
+    },
+    "comments": [
+      {
+        "id": 1,
+        "userName": "HardcoreGamer",
+        "text": "Das ROG Phone 6D ist ein Biest! Die Leistung ist unschlagbar und die Gaming-Features sind genial.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "userName": "CasualGamer",
+        "text": "Für den Preis hätte ich eine bessere Kamera erwartet. Aber für Gaming ist es top.",
+        "rating": 3
+      },
+      {
+        "id": 3,
+        "userName": "TechReviewer",
+        "text": "Das ROG Phone 6D ist ein Nischenprodukt, aber für Gamer die beste Wahl.",
+        "rating": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "customerID": 1,
+    "userName": "JohnDoe",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phoneNumber": "123-456-7890",
+    "shippingAddress": {
+      "street": "Hauptstraße 85",
+      "city": "Berlin",
+      "postalCode": "10115",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 2,
+    "userName": "TechFan2024",
+    "firstName": "Tech",
+    "lastName": "Fan",
+    "email": "tech.fan@example.com",
+    "phoneNumber": "234-567-8901",
+    "shippingAddress": {
+      "street": "Bahnhofstraße 32",
+      "city": "Hamburg",
+      "postalCode": "20095",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 3,
+    "userName": "AndroidEnthusiast",
+    "firstName": "Andy",
+    "lastName": "Roid",
+    "email": "andy.roid@example.com",
+    "phoneNumber": "345-678-9012",
+    "shippingAddress": {
+      "street": "Schulstraße 17",
+      "city": "München",
+      "postalCode": "80331",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 4,
+    "userName": "PreisLeistungsFreak",
+    "firstName": "Preis",
+    "lastName": "Leistung",
+    "email": "preis.leistung@example.com",
+    "phoneNumber": "456-789-0123",
+    "shippingAddress": {
+      "street": "Gartenstraße 5",
+      "city": "Köln",
+      "postalCode": "50667",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 5,
+    "userName": "SpeedDemon",
+    "firstName": "Speedy",
+    "lastName": "Demon",
+    "email": "speedy.demon@example.com",
+    "phoneNumber": "567-890-1234",
+    "shippingAddress": {
+      "street": "Waldstraße 99",
+      "city": "Frankfurt",
+      "postalCode": "60311",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 6,
+    "userName": "FilmmakerPro",
+    "firstName": "Filmy",
+    "lastName": "Maker",
+    "email": "filmy.maker@example.com",
+    "phoneNumber": "678-901-2345",
+    "shippingAddress": {
+      "street": "Bergstraße 22",
+      "city": "Stuttgart",
+      "postalCode": "70173",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 7,
+    "userName": "StyleGuru",
+    "firstName": "Stylish",
+    "lastName": "Guru",
+    "email": "stylish.guru@example.com",
+    "phoneNumber": "789-012-3456",
+    "shippingAddress": {
+      "street": "Hauptstraße 1",
+      "city": "Berlin",
+      "postalCode": "10115",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 8,
+    "userName": "FotoFanatiker",
+    "firstName": "Foto",
+    "lastName": "Fan",
+    "email": "foto.fan@example.com",
+    "phoneNumber": "890-123-4567",
+    "shippingAddress": {
+      "street": "Bahnhofstraße 68",
+      "city": "Hamburg",
+      "postalCode": "20095",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 9,
+    "userName": "GamerGirl",
+    "firstName": "Game",
+    "lastName": "Girl",
+    "email": "game.girl@example.com",
+    "phoneNumber": "901-234-5678",
+    "shippingAddress": {
+      "street": "Schulstraße 45",
+      "city": "München",
+      "postalCode": "80331",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 10,
+    "userName": "Umweltbewusst",
+    "firstName": "Umwelt",
+    "lastName": "Bewusst",
+    "email": "umwelt.bewusst@example.com",
+    "phoneNumber": "012-345-6789",
+    "shippingAddress": {
+      "street": "Gartenstraße 123",
+      "city": "Köln",
+      "postalCode": "50667",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 11,
+    "userName": "iLover",
+    "firstName": "i",
+    "lastName": "Lover",
+    "email": "i.lover@example.com",
+    "phoneNumber": "123-456-7891",
+    "shippingAddress": {
+      "street": "Waldstraße 83",
+      "city": "Berlin",
+      "postalCode": "80331",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 12,
+    "userName": "FitFreak",
+    "firstName": "Fit",
+    "lastName": "Freak",
+    "email": "fit.freak@example.com",
+    "phoneNumber": "234-567-8912",
+    "shippingAddress": {
+      "street": "Bahnhofstraße 3",
+      "city": "München",
+      "postalCode": "60311",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 13,
+    "userName": "OutdoorEnthusiast",
+    "firstName": "Outdoor",
+    "lastName": "Enthusiast",
+    "email": "outdoor.enthusiast@example.com",
+    "phoneNumber": "345-678-9123",
+    "shippingAddress": {
+      "street": "Bahnhofstraße 30",
+      "city": "Hamburg",
+      "postalCode": "50667",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 14,
+    "userName": "WellnessGuru",
+    "firstName": "Wellness",
+    "lastName": "Guru",
+    "email": "wellness.guru@example.com",
+    "phoneNumber": "456-789-1235",
+    "shippingAddress": {
+      "street": "Gartenstraße 89",
+      "city": "Berlin",
+      "postalCode": "10115",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 15,
+    "userName": "BudgetShopper",
+    "firstName": "Budget",
+    "lastName": "Shopper",
+    "email": "budget.shopper@example.com",
+    "phoneNumber": "567-890-2346",
+    "shippingAddress": {
+      "street": "Gartenstraße 16",
+      "city": "München",
+      "postalCode": "70173",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 16,
+    "userName": "HuaweiFan",
+    "firstName": "Huawei",
+    "lastName": "Fan",
+    "email": "huawei.fan@example.com",
+    "phoneNumber": "678-901-3457",
+    "shippingAddress": {
+      "street": "Hauptstraße 88",
+      "city": "Köln",
+      "postalCode": "50667",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 17,
+    "userName": "Fashionista",
+    "firstName": "Fashion",
+    "lastName": "Ista",
+    "email": "fashion.ista@example.com",
+    "phoneNumber": "789-012-4568",
+    "shippingAddress": {
+      "street": "Bahnhofstraße 56",
+      "city": "Köln",
+      "postalCode": "50667",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 18,
+    "userName": "RunnerGirl",
+    "firstName": "Runner",
+    "lastName": "Girl",
+    "email": "runner.girl@example.com",
+    "phoneNumber": "890-123-5679",
+    "shippingAddress": {
+      "street": "Bergstraße 4",
+      "city": "Hamburg",
+      "postalCode": "70173",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 19,
+    "userName": "TechGeek",
+    "firstName": "Techy",
+    "lastName": "Geek",
+    "email": "techy.geek@example.com",
+    "phoneNumber": "901-234-6790",
+    "shippingAddress": {
+      "street": "Bahnhofstraße 56",
+      "city": "München",
+      "postalCode": "60311",
+      "country": "Deutschland"
+    }
+  },
+  {
+    "customerID": 20,
+    "userName": "MountainClimber",
+    "firstName": "Mountain",
+    "lastName": "Climber",
+    "email": "mountain.climber@example.com",
+    "phoneNumber": "012-345-7891",
+    "shippingAddress": {
+      "street": "Bahnhofstraße 27",
+      "city": "Berlin",
+      "postalCode": "70173",
+      "country": "Deutschland"
+    }
+  }
+]

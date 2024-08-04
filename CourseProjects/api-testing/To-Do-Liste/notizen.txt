@@ -1,0 +1,10 @@
+Datenbanken nach Schema "CRUD"
+
+Create; Read; Update; Delete
+
+In HTTP Methoden entspricht es:
+
+POST; GET; PUT; DELETE
+
+Idempotent ist:
+Wenn eine Operation beliebig oft wiederholt wird, das Ergebnis aber nicht geändert wird. 

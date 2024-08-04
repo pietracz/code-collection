@@ -1,0 +1,90 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 0;
+    margin: 0;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    margin: 1%;
+}
+
+div #scaling{
+    display: flex;
+    flex-direction: row;
+    width: 200px auto;
+    height: 150px auto;
+    padding: 1%;
+    margin: 3%;
+}
+
+button {
+    margin: 1%;
+}
+
+
+/* header * {
+    border: 1px solid #defffc;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.navbar div {
+    color: #defffc;
+    text-align: center;
+    align-content: center;
+    margin: 1%;
+}
+
+.navbar .menu {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    margin: 1% 5%;
+    padding: 0;
+}
+
+.navbar li {
+    list-style: none;
+    text-align: center;
+    margin: 1%;
+    padding: 1%;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #defffc;
+    padding: 1%;
+}
+
+main * {
+    border: 1px solid #defffc;
+    color: #defffc;
+}
+
+main section {
+    margin: 1%;
+}
+
+main p {
+    min-height: 400px;
+    margin: 1%;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}  */
