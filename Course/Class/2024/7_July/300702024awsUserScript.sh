@@ -139,7 +139,7 @@ sudo systemctl enable grafana-server.service
 
 # PM2 Liste speichern
 pm2 save
-
+pm2 startup
 EOF
 
 sudo pm2 restart all
@@ -181,3 +181,6 @@ ssh-keygen -t rsa -b 2048 -f ~/.ssh/admin.pem
 
 # ssh sicherheits einstellungen
 Include /etc/ssh/sshd_config.d/*.conf
+
+# Deckt versteckte Daten auf
+ls -la 
