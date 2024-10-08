@@ -2,8 +2,8 @@
 
 .gitignore
 node_modules
-Course
-E-Books
+.course
+.ebooks
 /.pnp
 .pnp.js
 
