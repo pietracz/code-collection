@@ -1,0 +1,13 @@
+{
+  "name": "Gogginator",
+  "description": "Goggins Power Quotes for Daily Grind",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [
+    "offscreen"
+  ],
+  "action": {
+    "default_popup": "gogginator.html",
+    "default_icon": "icon.png"
+  }
+}

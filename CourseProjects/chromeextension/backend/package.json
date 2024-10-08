@@ -1,0 +1,31 @@
+{
+  "name": "gogginator-backend",
+  "version": "0.0.1",
+  "description": "A Backend API for the Gogginator Chrome Extension",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon -r dotenv/config function.js",
+    "prettier": "prettier --check .",
+    "prettier:fix": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcolindner/googinator-extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcolindner/googinator-extension/issues"
+  },
+  "homepage": "https://github.com/marcolindner/googinator-extension#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "4.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
+}

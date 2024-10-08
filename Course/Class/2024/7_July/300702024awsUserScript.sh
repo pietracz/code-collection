@@ -184,3 +184,5 @@ Include /etc/ssh/sshd_config.d/*.conf
 
 # Deckt versteckte Daten auf
 ls -la 
+
+curl ifconfig.me 
